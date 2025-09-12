@@ -17,7 +17,7 @@ From AI agents to decentralized apps, I love turning complex problems into elega
 
 ## 🛠️ Tech Stack
 `Python` · `Java` · `JavaScript` · `React` · `Spring Boot` · `FastAPI` · `LangChain` ·  
-`Solidity` · `Web3.js` · `IPFS` · `Raspberry Pi` · `Machine Learning` · `Deep Learning`
+`Solidity` · `Web3.js` · `Raspberry Pi` · `Machine Learning` · `Deep Learning`
 
 ---
 
