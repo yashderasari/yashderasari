@@ -45,7 +45,7 @@ From AI agents to decentralized apps, I love turning complex problems into elega
 ---
 
 ## 📫 Let’s Connect
-<a href="https://www.linkedin.com/in/yashderasari/" target="blank">
+<a href="https://www.linkedin.com/in/yashderasari/">
   <img src="https://skillicons.dev/icons?i=linkedin" alt = LinkedIn />
 </a>
 
