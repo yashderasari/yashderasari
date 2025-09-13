@@ -1,3 +1,5 @@
+![image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJsN2ppYTRteHloejJjbWtlcTV0cjAxczgzYjlkdmxhM2VmdGxzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif)
+
 # Hi there, I’m Yash 🏀
 **`Developer/Student/Tivia Lover/....and Java for life`**
 
