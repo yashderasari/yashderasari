@@ -1,4 +1,6 @@
-# Hi there, I’m Yash 👋
+# Hi there, I’m Yash 🏀
+**`Developer/Student/Tivia Lover/....and Java for life`**
+
 
 I’m a **Computer Science graduate student** passionate about building real-world tech that blends **AI, blockchain, and full-stack engineering**.  
 From AI agents to decentralized apps, I love turning complex problems into elegant solutions.
@@ -16,8 +18,7 @@ From AI agents to decentralized apps, I love turning complex problems into elega
 ---
 
 ## 🛠️ Tech Stack
-`Python` · `Java` · `JavaScript` · `React` · `Spring Boot` · `FastAPI` · `LangChain` ·  
-`Solidity` · `Web3.js` · `Raspberry Pi` · `Machine Learning` · `Deep Learning`
+`Python` · `Java` · `JavaScript` · `React` · `Spring Boot` · `FastAPI` · `LangChain` · `Solidity` · `Web3.js` · `Raspberry Pi` · `Machine Learning` · `Deep Learning`
 
 ---
 
@@ -44,9 +45,13 @@ From AI agents to decentralized apps, I love turning complex problems into elega
 ---
 
 ## 📫 Let’s Connect
-- **Portfolio**: [Click here](https://neon.zapfolio.in/yashderasari)  
-- **LinkedIn**: [Click here](https://www.linkedin.com/in/yashderasari/)  
-- **Email**: [Click here](ydmisc2803@gmail.com)
+<a href="https://www.linkedin.com/in/yashderasari/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt = LinkedIn />
+</a>
+
+<a href="ydmisc2803@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt = GMail />
+</a>
 
 ---
 
